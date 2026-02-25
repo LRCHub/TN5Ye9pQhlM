@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Drag Me Down",
+  "base_artist": "One Direction",
+  "createdAt": "2026-02-25T06:12:41.574609Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drag Me Down",
+      "artist": "We Are the Ocean",
+      "has_synced": true,
+      "path": "select/01_Drag_Me_Down_We_Are_the_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drag Me Down (EP Version)",
+      "artist": "We Are the Ocean",
+      "has_synced": false,
+      "path": "select/02_Drag_Me_Down_(EP_Version)_We_Are_the_Ocean.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drag Me Down (Taken from Look Alive-EP)",
+      "artist": "We Are the Ocean",
+      "has_synced": false,
+      "path": "select/03_Drag_Me_Down_(Taken_from_Look_Alive-EP)_We_Are_the_Ocean.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baby Don't Drag Me Down",
+      "artist": "Stray Cats",
+      "has_synced": false,
+      "path": "select/04_Baby_Don't_Drag_Me_Down_Stray_Cats.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Drag Me Down",
+      "artist": "The Boomtown Rats",
+      "has_synced": false,
+      "path": "select/05_Drag_Me_Down_The_Boomtown_Rats.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Drag Me Down",
+      "artist": "Liquido",
+      "has_synced": false,
+      "path": "select/06_Drag_Me_Down_Liquido.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Drag Me Down",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/07_Drag_Me_Down_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drag Me Down",
+      "artist": "Santa Cruz",
+      "has_synced": true,
+      "path": "select/08_Drag_Me_Down_Santa_Cruz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Drag Me Down",
+      "artist": "Social Distortion",
+      "has_synced": true,
+      "path": "select/09_Don't_Drag_Me_Down_Social_Distortion.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Drag Me Down (Live at Live Aid, Wembley Stadium, 13th July 1985)",
+      "artist": "The Boomtown Rats",
+      "has_synced": false,
+      "path": "select/10_Drag_Me_Down_(Live_at_Live_Aid,_Wembley_Stadium,_13th_July_1985)_The_Boomtown_Rats.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drag Me Down",
+      "artist": "Tonic",
+      "has_synced": true,
+      "path": "select/11_Drag_Me_Down_Tonic.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drag Me Down",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/12_Drag_Me_Down_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Drag Me Down",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/13_Drag_Me_Down_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Drag Me Down",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/14_Drag_Me_Down_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Drag Me Down",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/15_Drag_Me_Down_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Drag Me Down",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/16_Drag_Me_Down_One_Direction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drag Me Down",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Drag_Me_Down_One_Direction.txt"
+    }
+  ]
+}
